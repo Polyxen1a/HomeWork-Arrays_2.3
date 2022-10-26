@@ -79,7 +79,6 @@ public class Main {
                     System.out.println(year + " не високосный");
                 }
             }
-
         }
     }
 }
